@@ -1,8 +1,3 @@
-const express = require("express");
-const path = require("path");
-const port = 3001;
-const app = express();
-
 
 let noteTitle;
 let noteText;
