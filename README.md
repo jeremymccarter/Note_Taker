@@ -25,7 +25,7 @@ This project is an application called Note Taker that can be used to write and s
    
  ## Demo
   ![Screenshot](https://user-images.githubusercontent.com/118328184/222605179-3e2a1d25-0e44-431e-a957-b443e29ce12a.png)
-  ![Video](https://drive.google.com/file/d/1F1h_EBAzz4N_9GkKMukvMSHS8f6jzl_c/view)
+   [Video](https://drive.google.com/file/d/1F1h_EBAzz4N_9GkKMukvMSHS8f6jzl_c/view)
 
 
   ## Contributions
